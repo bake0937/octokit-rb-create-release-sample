@@ -1,6 +1,6 @@
 # octokit_rb_create_release_sample
 
-[octokit.rbを使ってリポジトリのリリースを作ってみる](https://bake0937.hatenablog.com/entry/2019/10/06/202841) のサンプルリポジトリです。
+[octokit.rbを使ってリポジトリのリリースを作ってみる](https://bake0937.hatenablog.com/entry/2019/10/06/202841) のサンプルリポジトリです。  
 対象のリポジトリにリリースを作ることができます。
 
 ## 使い方
